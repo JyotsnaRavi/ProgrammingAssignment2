@@ -40,7 +40,7 @@ cacheSolve <- function(x, ...) {
 
 
 ##xy<-matrix(1:4,2,2)
-##a<-makeCacheMatrix()
+##a<-makeCacheMatrix(xy)
 ##cacheSolve(a)
 ##      [,1] [,2]
 ##[1,]   -2  1.5
